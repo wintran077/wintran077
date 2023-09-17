@@ -1,12 +1,12 @@
 <h2 align="center">University</h2>
 <br>
 
-<h5 align="center">
+<align="center">
 <span><img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City%20University%20of%20Science-blue" alt="JavaScript logo" title="Ho Chi Minh City University of Science" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/University%20of%20Economics%20Ho%20Chi%20Minh%20City-green" alt="TypeScript logo" title="University of Economics Ho Chi Minh City" height="25" /></span>
 &nbsp;
-</h5>
+<br>
 <br>
 <h2 align="center">🔥 Majors 🔥</h2>
 
