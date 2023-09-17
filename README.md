@@ -1,9 +1,9 @@
 <h2 align="center">University</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City%20University%20of%20Science-Blue" alt="JavaScript logo" title="Ho Chi Minh City University of Science" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City%20University%20of%20Science-blue" alt="JavaScript logo" title="Ho Chi Minh City University of Science" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/University%20of%20Economics%20Ho%20Chi%20Minh%20City-green" alt="TypeScript logo" title="University of Economics Ho Chi Minh City" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="25" /></span>
 &nbsp;
