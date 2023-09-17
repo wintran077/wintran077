@@ -1,7 +1,7 @@
-<h2 align="center">🛠 Technologies and Tools 🛠</h2>
+<h2 align="center">University</h2>
 <br>
 <!-- https://simpleicons.org/ -->
-<span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Ho%20Chi%20Minh%20City%20University%20of%20Science-Blue" alt="JavaScript logo" title="Ho Chi Minh City University of Science" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
 &nbsp;
