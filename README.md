@@ -45,4 +45,4 @@
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
-
+<p><strong>People can do it, I can do it</strong></p>
