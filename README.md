@@ -29,15 +29,12 @@
 
 <br>
 
-<h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
+<h2 align="center">Try for my future</h2>
 <br>
-<p>
-  <a href="https://youtu.be/63opfUkPq6k" target="_blank">
-    <strong>☕ Học lập trình MERN Stack Nâng Cao (NodeJS, ReactJS, ExpressJS, MongoDB)</strong>
-  </a>
-</p>
-<p><strong>☕ Đây là một khóa học mà mình đã làm cực kỳ tâm huyết, với phong cách dạy lập trình làm dự án thực tế, chuyên nghiệp. Để các bạn có một hành trang kiến thức vững chắc cho hành trình sự nghiệp làm lập trình viên trong tương lai nhé.</strong></p>
-<p><strong>☕ Vì mỗi lần mở lớp online dạy trực tiếp này mình chỉ nhận số lượng rất ít bạn để đảm bảo chất lượng học, nên là các bạn quan tâm thì cứ thoải mái liên hệ với mình sớm để đăng ký giữ chỗ cho những lớp tiếp theo nha!</strong></p>
+<p><strong>☕ Clone gene of bacteria, virus, recombinant proteins </strong></a>
+<p><strong>☕ Combining information technology and biology </strong></a>
+<p><strong>☕ Instructions for selling on e-commerce platforms </strong></a>
+<p><strong>☕ Finance for company, individual</strong></p>
 <p>
   <br>
   <strong>🔗 My Facebook: <a href="https://www.facebook.com/william.tran.9421450" target="_blank">https://www.facebook.com/william.tran.9421450</a></strong>
