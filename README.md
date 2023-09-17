@@ -29,7 +29,7 @@
 
 <br>
 
-<h2 align="center">Try for my future</h2>
+<h2 align="center">I can do</h2>
 <br>
 <p><strong>☕ Clone gene of bacteria, virus, recombinant proteins </strong></a>
 <p><strong>☕ Combining information technology and biology </strong></a>
