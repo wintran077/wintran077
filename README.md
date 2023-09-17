@@ -1,4 +1,4 @@
-<p><img src="https://photos.app.goo.gl/H48i3UDy1e2Bp1sp8"/></a>
+<p><img src="https://github.com/wintran077/wintran077/blob/6c860a51e6b67ad358b2a4d9eb537a54f617ed07/135880649_3761479020580419_7801725965983328746_n.jpg"/></a>
 
 <h2 align="center">University</h2>
 <br>
