@@ -99,9 +99,9 @@
 <p>
   <strong>🔗 Link giới thiệu chi tiết: <a href="https://youtu.be/63opfUkPq6k" target="_blank">Lập Trình MERN Stack Nâng Cao - Học Thực Tế Để Đi Làm</a></strong>
   <br>
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/trungquandev" target="_blank">https://www.facebook.com/trungquandev</a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/william.tran.9421450" target="_blank">https://www.facebook.com/william.tran.9421450</a></strong>
   <br>
-  <strong>📧 Hoặc Email: <a href="mailto:trungquandev.official@gmail.com" target="_top">trungquandev.official@gmail.com</a></strong>
+  <strong>📧 Hoặc Email: <a href="mailto:wintran077@gmail.com" target="_top">wintran077@gmail.com</a></strong>
 </p>
 <a href="https://youtu.be/63opfUkPq6k" target="_blank">
   <img src="images/fair-mern-stack-advanced-banner-trungquandev-scaled.jpeg" width="1200" alt="trungquandev-official" />
